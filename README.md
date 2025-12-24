@@ -8,7 +8,7 @@ The Poultry Farm Management System v1.0 contains a critical vulnerability in the
 
 ### Vulnerable Endpoint
 ```
-POST /paultry/farm/product.php
+POST /paultry/farm/product.php or POST /farm/product.php
 ```
 
 ### Attack Vector
